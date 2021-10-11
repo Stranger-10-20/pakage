@@ -1,2 +1,6 @@
-# pakage
-this is a pakage
+# 软件测试
+①、软件测试理论基础知识
+②、Mysql数据库语句
+③、linux操作系统的常用命令
+④、python语言的基础语法
+⑤、自动化测试框架及实现
